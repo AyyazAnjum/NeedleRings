@@ -10,8 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "matter-js": "^0.20.0",
     "react": "19.0.0",
-    "react-native": "0.79.1"
+    "react-native": "0.79.1",
+    "react-native-game-engine": "^1.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
